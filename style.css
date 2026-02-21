@@ -3,6 +3,12 @@ body {
   font-family: 'Special Elite';
   margin: 0
   padding: 0;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  height: 100vh;
+  text-align: center;
+  font-size: 3rem;
 }
 
 h1 {
